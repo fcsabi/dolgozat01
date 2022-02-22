@@ -40,6 +40,31 @@ System.out.println("Farkas Csaba ");
 		System.out.println("Szoft I/N");
 		System.out.println("2022.02.22");
 		
+		Scanner bevitel= new Scanner(System.in);
+		System.out.print("Testtömeg(kg):   ");
+	int a = bevitel.nextInt();
+ 
+	    System.out.println(a);
+	    
+	    
+	    System.out.print("Testmagaság(méter):   ");
+	int b = bevitel.nextInt();
+ 
+	    System.out.println(a);
+	    
+	    
+	    int testomegindex=b/a;
+	    System.out.println("Testömegindex eredménye:   ");
+	    System.out.println(testomegindex    );
+	    
+		
+		
+		System.out.print("az eredmény hivatalos");
+		
+		
+		System.out.print("Farkas Csaba");
+		System.out.print("2022.02.22");
+		System.out.print("9:35");
 		
 		
 		
