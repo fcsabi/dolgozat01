@@ -36,7 +36,9 @@ public class tomtestin {
 	
 	public static void main (String[] args) {
 
-
+System.out.println("Farkas Csaba ");
+		System.out.println("Szoft I/N");
+		System.out.println("2022.02.22");
 		
 		
 		
